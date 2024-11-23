@@ -32,7 +32,7 @@ This project exposed me to learn a lot using Microsoft Power BI.
 
 
 __MOCKUP__- To build this kind of dashboard.
-![mock up dashboard_atliq grands](https://github.com/LavanyaVishwakarma/powerbi_1/assets/120155873/2931c68b-e726-4735-9240-421fc2349aa3)
+![mock up dashboard_atliq grands](https://github.com/Vivek-9-6/Power-BI-AtliQ_Hospitality/blob/main/mock%20up%20dashboard_atliq%20grands.png)
 
 
 __DATA SOURCING__
@@ -72,7 +72,7 @@ The column names are not captured here. We need to select "Use First Row as Head
 
 
 __DATA MODELLING__
-![Data_model_Hotel](https://github.com/LavanyaVishwakarma/powerbi_1/assets/120155873/a1403f07-2cbf-49b1-943f-98dd094c259c)
+![Data_model_Hotel](https://github.com/Vivek-9-6/Power-BI-AtliQ_Hospitality/blob/main/Data_modeling.png)
 
 
 __BUILDING DAX__
@@ -91,20 +91,10 @@ __MEASURES__
 
 Revenue : To get the total revenue_realized : formula : Revenue = SUM(fact_bookings[revenue_realized]) : and the table is fact_bookings.
 
-Total Bookings : To get the total number of bookings happened: Formula : Total Bookings = COUNT(fact_bookings[booking_id]): and the table is fact_bookings.
+Total Bookings : To get the total number of bookings happened:- 
+Formula : Total Bookings = COUNT(fact_bookings[booking_id]): and the table is fact_bookings.
 
 As, there are 26 measures. To check the detail of all measures visit metrics_list.xlxs
-
-
-__DASHBOARDING__
-
-![AtliQ Hospitality 1](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/ee804a91-5ede-41b8-84dd-387c05548e80)
-
-![AtliQ Hospitality 4](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/eb0f61be-d1c8-4db3-aa7d-fa650721684b)
-
-![AtliQ Hospitality 2](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/41c1e559-e7eb-440c-936a-dee54467665c)
-
-![AtliQ Hospitality 3](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/47aadc80-d19d-4f25-8ae4-c69a46b3bf21)
 
 
 __INSIGHTS__
@@ -119,6 +109,6 @@ __INSIGHTS__
 
 
 ## 🔗 Links
-[![novypro portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.novypro.com/profile_projects/yatinlokhande)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatinlokhande/)
-[![Codebasics portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Yatin-Govinda-Lokhande)
+[![novypro portfolio](https://www.novypro.com/manage_projects/vivek-suresh)
+[![linkedin](https://www.linkedin.com/in/vivek-suresh-143460134/)
+[![Codebasics portfolio](https://codebasics.io/portfolio/Vivek-Suresh)
